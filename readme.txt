@@ -1,5 +1,9 @@
 21.06.09 
+Krzysztof Szczepaniec
+Fizyka Komputerowa
 
+
+zawartosc:
 
  z_cwiczen.tgz - archiwum zawiera wszystkie programy jakie 
 		 pisalismy na cwiczeniach z fortrana
